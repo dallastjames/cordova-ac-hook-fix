@@ -1,0 +1,7 @@
+{
+  "name": "Hook",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
